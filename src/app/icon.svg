@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#0c0d10"/>
+  <rect x="2" y="2" width="28" height="28" rx="3" fill="none" stroke="#c39354" stroke-width="1.2"/>
+  <text x="50%" y="50%" font-family="Georgia, serif" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="central" fill="#c39354">北</text>
+</svg>
