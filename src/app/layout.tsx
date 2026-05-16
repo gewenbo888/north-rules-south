@@ -34,6 +34,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "North Rules South · 北治南" }],
     title: "North Rules South · 北治南",
     description:
       "Twelve civilizations, four millennia, one pattern: forest, steppe, and sea-faring Northerners conquering the great agrarian Souths.",
@@ -44,6 +45,7 @@ export const metadata: Metadata = {
     alternateLocale: ["zh_CN"],
   },
   twitter: {
+    images: ["/twitter-image.png"],
     card: "summary_large_image",
     title: "North Rules South · 北治南",
     description: "A theory of conquest dynasties — and the Anglo-Saxon order that dissolved them.",
